@@ -1,6 +1,6 @@
 #Frequently Asked Questions#
 
-###Why does the keyboard not work until several seconds after its plugged in?###
+###Why does the keyboard not work until several seconds after it's plugged in?###
 
 When the microcontroller first starts up it is in its bootloader mode. This stops automatically after a couple of seconds.
 

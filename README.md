@@ -2,7 +2,7 @@
 
 ##FAQ##
 
-If you run into any problems using the keyboard normally, please see the FAQ located here.
+If you run into any problems using the keyboard normally, please see the FAQ located [here](FAQ.md).
 
 ##Reprograming##
 

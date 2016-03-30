@@ -8,7 +8,7 @@ If you run into any problems using the keyboard normally, please see the FAQ loc
 
 ###Drivers###
 
-This keybaord is an Adafruit Trinket 5V with three button and missing a couple of LEDs. If you would like to try to reprogram the board, the webpage here will guide you through installing the necessary drivers. And give a general introduction.
+This keybaord is an Adafruit Trinket 5V with three button and missing a couple of LEDs. If you would like to try to reprogram the board, the webpage [here](https://learn.adafruit.com/introducing-trinket/introduction) will guide you through installing the necessary drivers. And give a general introduction to programming the board.
 
 ###Bootloader###
 
@@ -21,3 +21,7 @@ One way to activate the bootloader is to unplug the USB cable and plug it back i
 ####Method 2####
 
 The other meathod is to short the reset (Rst) and ground (Gnd) pins. This second method has the exact same effect as the reset button on the Trinket.
+
+###Libraries###
+
+Two libraries are needed for the keyboard code to run. One is the built in EEPROM library and the other is the Trinket Keyboard library located [here](https://github.com/adafruit/Adafruit-Trinket-USB/archive/master.zip).
